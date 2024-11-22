@@ -73,7 +73,10 @@ During a second pass, we remove the term "undergraduate" from "undergraduate mat
 library(readr)
 pass2 <- readtext(here("data/savedrecs_math_quantcrit.txt"))
 # query: https://www.webofscience.com/wos/woscc/summary/d7af3b36-f07b-483c-b4a4-88106c39f6aa-012a425b6f/relevance/1
+pass2
+```
 
+```{r}
 # convert file to a bibliometric df
 P2 <- convert2df(file=pass2, dbsource= "wos", format= "plaintext")
 P2 # view data
