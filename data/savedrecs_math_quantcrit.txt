@@ -1,0 +1,757 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Young, J
+   Young, J
+AF Young, Jamaal
+   Young, Jemimah
+TI Decoding the data dichotomy: applying QuantCrit to understand racially
+   conscience intersectional meta-analytic research
+SO INTERNATIONAL JOURNAL OF RESEARCH & METHOD IN EDUCATION
+LA English
+DT Article
+DE QuantCrit; meta-analysis; Black girls; literacy; achievement; NAEP
+ID ACHIEVEMENT GAP; SCIENCE ACHIEVEMENT; EFFECT SIZE; GENDER; MATHEMATICS;
+   GUIDE
+AB Our purpose is to proffer QuantCrit methodological approaches to interrogate notions of statistical practice by convention. We present two approaches to meta-analysis and mean effect size calculations for student achievement. The first approach is the conventional approach which applies between-group differences to calculate effect sizes representing achievement gaps. The second approach is commonly referred to as a single-group summary meta-analysis within the medical literature, which calculates within-group mean differences referred to here as student growth. In the conventional study, 39 independent effect sizes were combined to produce an overall mean difference effect size of -.85, which indicated that the average difference in performance between Black and White girl literacy was almost one standard deviation. The second approach summarized the mean differences from 33 effect sizes using the previous administration year as the comparison group. A statistically significant mean difference of .09 was observed for the QuantCrit approach. Our study contributes to the literature on racially just epistemologies by providing concurrent analyses of meta-analytic data to expose the unique features of QuantCrit that make it distinct from traditional approaches to Quantitative research.
+C1 [Young, Jamaal; Young, Jemimah] Texas A&M Univ, Dept Teaching Learning & Culture, College Stn, TX 77843 USA.
+C3 Texas A&M University System; Texas A&M University College Station
+RP Young, J (corresponding author), Texas A&M Univ, College Stn, TX 77843 USA.
+EM jamaal.young@tamu.edu
+RI Young, Jamaal/HTN-8184-2023
+OI Young, Jemimah/0000-0001-6598-9196; Young, Jamaal/0000-0001-7277-1072
+CR Andon A, 2014, LARGE-SCALE ASSESS E, V2, DOI 10.1186/s40536-014-0007-2
+   [Anonymous], 2009, 2010451 NCES US DEP
+   [Anonymous], 2013, NATIONS REPORT CARD
+   [Anonymous], 1990, Black feminist thought: Knowledge, consciousness, and the politics of empowerment
+   [Anonymous], 2004, ENG SCH FOST HIGH SC
+   Blank MAB, 2017, ULTRASOUND MED BIOL, V43, P387, DOI 10.1016/j.ultrasmedbio.2016.09.002
+   Bloom H.S., 2008, J RES EDUC EFF, V1, P289, DOI DOI 10.1080/19345740802400072
+   Bohrnstedt G., 2015, SCH COMPOSITION BLAC
+   Boykin A., 2011, Creating the Opportunity to Learn
+   Caldera A, 2020, DEPART CRIT QUAL RES, V9, P63, DOI 10.1525/dcqr.2020.9.1.63
+   Carey RL, 2014, URBAN EDUC, V49, P440, DOI 10.1177/0042085913507459
+   Carpenter DM, 2006, EDUC URBAN SOC, V39, P113, DOI 10.1177/0013124506291792
+   Curran FC, 2016, EDUC RESEARCHER, V45, P273, DOI 10.3102/0013189X16656611
+   Dotterer AM, 2014, J RES ADOLESCENCE, V24, P734, DOI 10.1111/jora.12080
+   FEINGOLD A, 1994, SEX ROLES, V30, P81, DOI 10.1007/BF01420741
+   Ferguson CJ, 2009, PROF PSYCHOL-RES PR, V40, P532, DOI 10.1037/a0015808
+   Garcia NM, 2018, RACE ETHNIC EDUC-UK, V21, P149, DOI 10.1080/13613324.2017.1377675
+   Gillborn D, 2018, RACE ETHNIC EDUC-UK, V21, P158, DOI 10.1080/13613324.2017.1377417
+   Gorey Kevin M, 2009, Educ Policy Anal Arch, V17, P1
+   Gutiérrez R, 2014, BIG LIES OF SCHOOL REFORM: FINDING BETTER SOLUTIONS FOR THE FUTURE OF PUBLIC EDUCATION, P17
+   Gutsmiedl K, 2020, BMC PSYCHIATRY, V20, DOI 10.1186/s12888-020-02514-2
+   Hanushek E.A., 2019, Education Next, V19, P8
+   Harris DN, 2006, AM J EDUC, V112, P209, DOI 10.1086/498995
+   Hattie J, 2009, VISIBLE LEARNING: A SYNTHESIS OF OVER 800 META-ANALYSES RELATING TO ACHIEVEMENT, P1
+   Hill CJ, 2008, CHILD DEV PERSPECT, V2, P172, DOI 10.1111/j.1750-8606.2008.00061.x
+   hooks b., 1989, TALKING BACK THINKIN, V10
+   Jeynes W.H., 2010, Journal of Negro Education, V79, P263
+   Jeynes WH, 2015, EDUC URBAN SOC, V47, P523, DOI 10.1177/0013124514529155
+   Kishi T, 2020, J CLIN PSYCHOPHARM, V40, P468, DOI 10.1097/JCP.0000000000001264
+   Krull M., 2014, SOJOURNERS MAGAZINE, V43, P9
+   Lindberg SM, 2010, PSYCHOL BULL, V136, P1123, DOI 10.1037/a0021276
+   McFarland J., 2019, The Condition of Education 2019
+   Millin T, 2020, J ACAD LANG LEARN, V14, P113
+   Najafi TF, 2015, IRAN RED CRESCENT ME, V17, DOI 10.5812/ircmj.17(4)2015.26930
+   National Center for Education Statistics, 2020, ACH GAPS
+   Perie M., 2005, NAEP 2004 TRENDS ACA
+   Rampey B., 2009, NCES 2009-479
+   Reilly D, 2015, J EDUC PSYCHOL, V107, P645, DOI 10.1037/edu0000012
+   Sablan JR, 2019, AM EDUC RES J, V56, P178, DOI 10.3102/0002831218798325
+   Shaw C, 2009, HEALTH TECHNOL ASSES, V13, P1, DOI 10.3310/hta13200
+   Soland J., 2019, 1960 ED ANN I BROWN
+   Stevens J., 2018, Using Effect Size to Evaluate Achievement Gaps
+   Taylor E, 2006, LEADERSH POLICY SCH, V5, P71, DOI 10.1080/15700760500499025
+   Thompson C., 2001, Eliminating the Black-White achievement gap: A summary of research
+   Toldson I.A., 2019, No BS (bad stats): Black people need people who believe in Black people enough not to believe every bad thing they hear about Black people, DOI DOI 10.1163/9789004397040
+   Trusty J, 2004, J COUNS DEV, V82, P107, DOI 10.1002/j.1556-6678.2004.tb00291.x
+   U.S. Department of Education Institute of Education Sciences National Center for Education Statistics, 2021, NAT ASS ED PROGR NAE
+   Vanneman A., 2009, ACHIEVEMENT GAPS BLA
+   Webb M., 2015, National Forum of Teacher Education Journal, V25, P1
+   Young JL., 2017, Electronic Journal of Science Education, V21, P1
+NR 50
+TC 4
+Z9 6
+U1 0
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1743-727X
+EI 1743-7288
+J9 INT J RES METHOD EDU
+JI Int. J. Res. Method Educ.
+PD AUG 8
+PY 2022
+VL 45
+IS 4
+SI SI
+BP 381
+EP 396
+DI 10.1080/1743727X.2022.2093847
+EA JUN 2022
+PG 16
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA 4L8RC
+UT WOS:000819519200001
+DA 2024-11-22
+ER
+
+PT J
+AU Rios, J
+AF Rios, Jocelyn
+TI Language, Comfort Speaking, and Collaboration: A QuantCrit Analysis of
+   Multilingual Students' Experiences in Introductory College Mathematics
+   Courses
+SO INTERNATIONAL JOURNAL OF RESEARCH IN UNDERGRADUATE MATHEMATICS EDUCATION
+LA English
+DT Article
+DE Multilingual classroom; Critical quantitative analysis; QuantCrit; Peer
+   collaboration; Active learning; Math identity
+ID IDENTITIES; ACHIEVEMENT; PARTICIPATION; DIVERSITY; INQUIRY; EQUITY;
+   THREAT; MODEL; SELF
+AB Active learning practices, like groupwork, are becoming more widely used in post-secondary mathematics classrooms. These practices are often talk-intensive and require interpersonal interactions. As such, it remains an open question the extent to which practices like groupwork equitably support students with different social identities, including identities that center language. The goal of this paper is to use critical quantitative methodology to analyze the experiences of students in introductory college mathematics courses, particularly in courses that require peer collaboration. The data for this paper stems from surveys completed by 464 undergraduate students with different language backgrounds. The analysis identifies relationships that existed between the identities students brought to the classroom and the identities they developed in introductory mathematics courses. Using linear regression models, the study found that students' comfort speaking during class and the language they preferred to do mathematics in were associated with practice-linked identities, like sense of belonging among peers. Findings also suggest an interaction between these variables and the frequency that students engaged in peer collaboration. This study contributes to the growing body of literature documenting how students with marginalized identities may have differential experiences with active learning practices, like groupwork.
+C1 [Rios, Jocelyn] Colorado State Univ, Dept Math, Ft Collins, CO 80523 USA.
+C3 Colorado State University
+RP Rios, J (corresponding author), Colorado State Univ, Dept Math, Ft Collins, CO 80523 USA.
+EM jocelyn.rios@colostate.edu
+OI Rios, Jocelyn/0000-0002-1577-3837
+CR Abrahamson D, 2020, FRONT EDUC, V5, DOI 10.3389/feduc.2020.00147
+   Adiredja AP., 2017, International Journal of Research in Undergraduate Mathematics Education, V3, P444, DOI DOI 10.1007/S40753-017-0054-5
+   Armbruster P, 2009, CBE-LIFE SCI EDUC, V8, P203, DOI 10.1187/cbe.09-03-0025
+   Barwell R, 2016, NEW ICMI STUD SER, P1, DOI 10.1007/978-3-319-14511-2_1
+   Battey D, 2022, J RES MATH EDUC, V53, P94, DOI 10.5951/jresematheduc-2020-0170
+   Birney ME, 2020, J LANG SOC PSYCHOL, V39, P67, DOI 10.1177/0261927X19883906
+   Biza I, 2016, ICME-13 TOPICAL SURV, P1, DOI 10.1007/978-3-319-41814-8_1
+   Cass CAP, 2011, PROC FRONT EDUC CONF
+   Castillo W., 2022, How to "QuantCrit": Practices and ques- tions for education data researchers and users, P22, DOI [DOI 10.26300/V5KH-DD65, 10.26300/V5KH-DD65]
+   Cohen E. G., 2014, Designing Groupwork: Strategies for the Heterogeneous Classroom Third Edition, V3rd
+   CRENSHAW K, 1993, STANFORD LAW REVIEW VOL 43, NO 6, JULY 1991, P1241
+   Cribbs JD, 2015, CHILD DEV, V86, P1048, DOI 10.1111/cdev.12363
+   Darragh L, 2016, EDUC STUD MATH, V93, P19, DOI 10.1007/s10649-016-9696-5
+   DeCuir-Gunby JT, 2020, EDUC PSYCHOL-US, V55, P244, DOI 10.1080/00461520.2020.1793762
+   Distefano C., 2009, PRACT ASSESS RES EVA, V14, P1, DOI DOI 10.7275/DA8T-4G52
+   Dookie L., 2015, THESIS U TORONTO
+   Dusen B, 2022, J CHEM EDUC, V99, P25, DOI 10.1021/acs.jchemed.1c00352
+   Eddy SL, 2015, CBE-LIFE SCI EDUC, V14, DOI 10.1187/cbe.15-05-0108
+   Ernest JB, 2019, EDUC STUD MATH, V102, P153, DOI 10.1007/s10649-019-09910-w
+   Esmonde I., 2009, J URBAN MATH ED, V2, P18, DOI DOI 10.21423/JUME-V2I2A46
+   Esmonde I, 2009, REV EDUC RES, V79, P1008, DOI 10.3102/0034654309332562
+   Esmonde I, 2009, J LEARN SCI, V18, P247, DOI 10.1080/10508400902797958
+   Ferri G., 2021, Critical Inquiry in Language Studies, V18, P229, DOI DOI 10.1080/15427587.2020.1805613
+   García I, 2020, J AM PLANN ASSOC, V86, P393, DOI 10.1080/01944363.2020.1758191
+   Garcia NM, 2018, RACE ETHNIC EDUC-UK, V21, P149, DOI 10.1080/13613324.2017.1377675
+   Gillborn D, 2018, RACE ETHNIC EDUC-UK, V21, P158, DOI 10.1080/13613324.2017.1377417
+   Gutierrez R., 2012, EQUITY DISCOURSE MAT, P17, DOI DOI 10.1007/978-94-007-2813-4_2
+   Gutiérrez R, 2008, J RES MATH EDUC, V39, P357
+   Gutiérrez R, 2013, J RES MATH EDUC, V44, P37
+   Henning JA, 2019, FRONT EDUC, V4, DOI 10.3389/feduc.2019.00129
+   Hurtado Sylvia., 2012, Undergraduate Teaching Faculty: The 2010-2011 HERI Faculty Survey
+   Hwang J., 2021, PRIMUS, V32, P1140
+   Johnson E, 2020, J RES MATH EDUC, V51, P504, DOI 10.5951/jresematheduc-2020-0043
+   Kim R, 2019, J APPL BEHAV SCI, V55, P73, DOI 10.1177/0021886318800997
+   Lahdenperä J, 2020, INT J RES UN MATH ED, V6, P475, DOI 10.1007/s40753-020-00118-5
+   Langer-Osuna JM, 2017, J RES MATH EDUC, V48, P237, DOI 10.5951/jresematheduc.48.3.0237
+   Langer-Osuna JM., 2017, Compendium for research in mathematics education, P637
+   Larnell G.V., 2014, J ED, V194, P49, DOI DOI 10.1177/002205741419400107
+   Larnell GV, 2016, J RES MATH EDUC, V47, P233, DOI 10.5951/jresematheduc.47.3.0233
+   Laursen SL, 2014, J RES MATH EDUC, V45, P406
+   Lee DK, 2016, KOREAN J ANESTHESIOL, V69, P555, DOI 10.4097/kjae.2016.69.6.555
+   Leyva L., 2016, J URBAN MATH ED, V9, P81, DOI DOI 10.21423/JUME-V9I2A295
+   Leyva LA, 2021, J HIGH EDUC-UK, V92, P784, DOI 10.1080/00221546.2021.1879586
+   Marion V, 2007, J SPEECH LANG HEAR R, V50, P940, DOI 10.1044/1092-4388(2007/067)
+   Martin DB, 2009, TEACH COLL REC, V111, P295
+   Mazerolle M. J., 2020, AICcmodavg: Model selection and inference based QAICc. R package version 2.0-3
+   McGee EO, 2015, J RES MATH EDUC, V46, P599, DOI 10.5951/jresematheduc.46.5.0599
+   McGee EO, 2011, AM EDUC RES J, V48, P1347, DOI 10.3102/0002831211423972
+   Moschkovich J., 2007, EDUC STUD MATH, V64, P121, DOI [10.1007/s10649-005-9005-1, DOI 10.1007/S10649-005-9005-1]
+   Omi Michael, 2014, Racial Formation in the United States, DOI DOI 10.4324/9780203076804
+   Oppland-Cordell S, 2015, MATH EDUC RES J, V27, P21, DOI 10.1007/s13394-014-0127-6
+   Planas N, 2013, MATH EDUC RES J, V25, P361, DOI 10.1007/s13394-013-0075-6
+   Planas N, 2011, LANG EDUC-UK, V25, P129, DOI 10.1080/09500782.2011.552725
+   Planas N, 2009, MATH EDUC RES J, V21, P36, DOI 10.1007/BF03217552
+   Reinholz D, 2022, J RES MATH EDUC, V53, P204, DOI 10.5951/jresematheduc-2020-0143
+   Roberts MT, 2020, COMMUNITY COLL J RES, V44, P701, DOI 10.1080/10668926.2019.1640143
+   Shah N, 2019, HARVARD EDUC REV, V89, P661
+   Smith C.V., 2011, Journal of the Scholarship of Teaching and Learning, V11, P53
+   Solomon Y, 2007, STUD HIGH EDUC, V32, P79, DOI 10.1080/03075070601099473
+   Solomon Y, 2012, EDUC STUD MATH, V80, P171, DOI 10.1007/s10649-012-9384-z
+   Steele CM, 1997, AM PSYCHOL, V52, P613, DOI 10.1037/0003-066X.52.6.613
+   Suzuki S, 2021, J ADOLESCENT RES, V36, P535, DOI 10.1177/07435584211028229
+   Takeuchi MA, 2016, J LEARN SCI, V25, P411, DOI 10.1080/10508406.2016.1169422
+   Theobald EJ, 2020, P NATL ACAD SCI USA, V117, P6476, DOI 10.1073/pnas.1916903117
+   Theobald EJ, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0181336
+   Translanguaging Study Group, 2020, TEACHING EXCELLENCE, V11, P17
+   Van Dusen B, 2022, J WOMEN MINOR SCI EN, V28, P27, DOI 10.1615/JWomenMinorScienEng.2022036220
+   Voigt M., 2022, Proceedings of the 24th Conference on Research in Undergraduate Mathematics Education, P666
+   Walker S.L., 2005, LEARNING ENVIRON RES, V8, P308, DOI [DOI 10.1007/S10984-005-1568-3, 10.1007/s10984-005-1568-3, 10.1007/s10984-005-1568-3 _C, DOI 10.1007/S10984-005-1568-3_C]
+   Zuberi T., 2008, WHITE LOGIC WHITE ME
+NR 70
+TC 5
+Z9 6
+U1 1
+U2 6
+PU SPRINGER INT PUBL AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2198-9745
+EI 2198-9753
+J9 INT J RES UN MATH ED
+JI Int. J. Res. Undergrad. Math. Educ.
+PD AUG
+PY 2024
+VL 10
+IS 2
+BP 642
+EP 672
+DI 10.1007/s40753-023-00230-2
+EA DEC 2023
+PG 31
+WC Education & Educational Research
+WE Emerging Sources Citation Index (ESCI)
+SC Education & Educational Research
+GA D7I3Y
+UT WOS:001112288500001
+DA 2024-11-22
+ER
+
+PT J
+AU Frisby, MB
+AF Frisby, Michael B.
+TI Critical Quantitative Literacy: An Educational Foundation for Critical
+   Quantitative Research
+SO AERA OPEN
+LA English
+DT Article
+DE CQL; critical quantitative literacy; critical theory; CritQuant; equity;
+   mathematics education; QuantCRiT; quantitative education; quantitative
+   methods; statistics
+ID CRITICAL RACE THEORY; EUGENICS
+AB Education research has recently seen the emergence of two distinct frameworks guiding the application of quantitative methods through a more critical and equity-oriented lens. These two frameworks are critical quantitative (CritQuant) studies and quantitative critical race theory (QuantCrit). Although different in their intellectual traditions, they both acknowledge the oppressive history of quantitative methods and the need to improve the criticality of quantitative research in education. For applied quantitative research in education to become more critical, it is imperative that learners of quantitative methodology be made aware of its historical and modern misuses. This directive calls for an important change in the way quantitative methodology is taught in educational classrooms. Critical quantitative literacy (CQL) is introduced in this manuscript as a paradigm for teaching, learning, understanding, and applying quantitative methods in a way that supports the application of CritQuant and QuantCrit frameworks in educational research.
+C1 [Frisby, Michael B.] Georgia State Univ, Atlanta, GA 30302 USA.
+C3 University System of Georgia; Georgia State University
+RP Frisby, MB (corresponding author), Georgia State Univ, Atlanta, GA 30302 USA.
+EM mfrisby@gsu.edu
+RI Frisby, Michael/ABG-7786-2020
+OI Frisby, Michael/0000-0003-1475-0470
+CR American Educational Research Association American Psychological Association National Council on Measurement in Education, 2014, Standards for Educational and Psychological Testing
+   Arellano L, 2022, EDUC SCI, V12, DOI 10.3390/educsci12020116
+   Baez B., 2007, USING QUANTITATIVE D, P17, DOI DOI 10.1002/IR.201
+   Boveda M, 2023, REV EDUC RES, V93, P635, DOI 10.3102/00346543231170179
+   Campbell SL, 2023, RACE ETHNIC EDUC-UK, V26, P815, DOI 10.1080/13613324.2020.1842345
+   Casella G., 2002, STAT INFERENCE
+   Castillo W., 2022, How to "QuantCrit:" Practices and questions for education data researchers and users
+   Childs TM, 2023, RACE ETHNIC EDUC-UK, V26, P368, DOI 10.1080/13613324.2022.2122425
+   Covarrubias A., 2013, Handbook of Critical Race Theory in Education, P270, DOI DOI 10.4324/9780203155721-30
+   Crawford CE, 2019, J EDUC POLICY, V34, P423, DOI 10.1080/02680939.2018.1531314
+   Culpepper R.A., 2006, Journal of International Business Research, V5, P75
+   Dencik L, 2019, INFORM COMMUN SOC, V22, P873, DOI 10.1080/1369118X.2019.1606268
+   Diemer M., 2024, ILLUSTRATING ENACTIN, DOI [10.31234/osf.io/8thpu, DOI 10.31234/OSF.IO/8THPU]
+   Dixon-Roman E.J., 2017, INHERITING POSSIBILI
+   Dubois WilliamE.B., 1899, PHILADELPHIA NEGRO S
+   Garcia NM, 2018, RACE ETHNIC EDUC-UK, V21, P149, DOI 10.1080/13613324.2017.1377675
+   Garvey JC, 2019, REV HIGH EDUC, V43, P1, DOI 10.1353/rhe.2019.0088
+   Gelman A, 2006, AM STAT, V60, P328, DOI 10.1198/000313006X152649
+   Gillborn D, 2018, RACE ETHNIC EDUC-UK, V21, P158, DOI 10.1080/13613324.2017.1377417
+   Gillborn D, 2010, J EDUC POLICY, V25, P253, DOI 10.1080/02680930903460740
+   Grimm P., 2010, WILEY INT ENCY MARKE, P2, DOI [10.1002/9781444316568.wiem02057, DOI 10.1002/9781444316568.WIEM02057]
+   Helms JE, 2006, AM PSYCHOL, V61, P845, DOI 10.1037/0003-066X.61.8.845
+   Helms JE, 2012, IND ORGAN PSYCHOL-US, V5, P176, DOI 10.1111/j.1754-9434.2012.01426.x
+   HELMS JE, 1992, AM PSYCHOL, V47, P1083, DOI 10.1037/0003-066X.47.9.1083
+   Her CS, 2014, MULTICULT PERSPECT, V16, P35, DOI 10.1080/15210960.2014.872938
+   Hilliard A.G., 1990, Contemporary Education, V61, P184
+   Holland P. W., 2008, ETS RES REPORT SERIE, P93, DOI DOI 10.1002/J.2333-8504.2003.TB01895.X
+   Huber LP, 2015, RACE ETHNIC EDUC-UK, V18, P297, DOI 10.1080/13613324.2014.994173
+   Irgens GA., 2020, Proceedings of the International Society of Learning Sciences, P406, DOI DOI 10.22318/ICLS2020.406
+   James A., 2001, RACE SOC, V4, P235, DOI [DOI 10.1016/S1090-9524(03)00012-3, 10.1016/S1090-9524, DOI 10.1016/S1090-9524]
+   Kaplan L., 2022, Practical Assessment, Research, and Evaluation, V27, DOI DOI 10.7275/K44E-SP84
+   Kincheloe J., 1994, HDB QUALITATIVE RES
+   Kline R., 2016, METHODOLOGY SOCIAL S
+   Ladson-Billings G., 2007, The Journal of Negro Education, V76
+   Ladson-Billings G., 2006, EDUC RESEARCHER, V35, P3, DOI [10.3102/0013189x035007003, DOI 10.3102/0013189X035007003]
+   Langkjar-Bain R., 2019, Significance, V16, P16
+   Lopez JD, 2021, J DIVERS HIGH EDUC, V14, P519, DOI 10.1037/dhe0000181
+   López N, 2018, RACE ETHNIC EDUC-UK, V21, P180, DOI 10.1080/13613324.2017.1375185
+   Matsuda M. J., 1993, WORDS WOUND CRITICAL
+   Nguyen HHD, 2008, J APPL PSYCHOL, V93, P1314, DOI 10.1037/a0012702
+   Nuzzo R, 2014, NATURE, V506, P150, DOI 10.1038/506150a
+   Pangrazio L, 2019, NEW MEDIA SOC, V21, P419, DOI 10.1177/1461444818799523
+   Philip TM, 2016, COGNITION INSTRUCT, V34, P361, DOI 10.1080/07370008.2016.1210418
+   Randall J, 2021, EDUC MEAS-ISSUES PRA, V40, P82, DOI 10.1111/emip.12429
+   Ro H K., 2020, New Directions for Student Services, V169, P87, DOI [DOI 10.1002/SS.20347, 10.1002/ss.20347]
+   Root Elihu., 1916, Addresses on Government and Citizenship
+   Sablan JR, 2019, AM EDUC RES J, V56, P178, DOI 10.3102/0002831218798325
+   Schlinger HD, 2003, PSYCHOL REC, V53, P15
+   Sen M, 2016, ANNU REV POLIT SCI, V19, P499, DOI 10.1146/annurev-polisci-032015-010015
+   Smith LindaTuhiwai., 2012, Decolonizing Methodologies: Research and Indigenous Peoples, V2nd
+   Solorzano D.G., 2002, Qualitative inquiry, V8, P23, DOI DOI 10.1177/107780040200800103
+   Stage F.K., 2014, New scholarship in critical quantitative research
+   Stage F.K., 2007, USING QUANTITATIVE D
+   Stephens E, 2017, CONTINUUM-J MEDIA CU, V31, P365, DOI 10.1080/10304312.2016.1275126
+   Sullivan S., 2007, Race and Epistemologies of Ignorance
+   Tabron L. A., 2020, Handbook of social justice interventions in education, P1
+   Tabron LA, 2023, REV EDUC RES, V93, P756, DOI 10.3102/00346543221130017
+   Terman LM, 1924, J EDUC RES, V10, P335, DOI 10.1080/00220671.1924.10879512
+   Terman LM, 1922, PSYCHOL REV, V29, P310, DOI 10.1037/h0071072
+   Walter, 2013, INDIGENOUS STAT QUAN
+   Wise AF, 2020, J LEARN SCI, V29, P165, DOI 10.1080/10508406.2019.1705678
+   Ziliak S., 2007, CULT STAT SIGNIFICAN
+   Zuberi T., 2008, WHITE LOGIC WHITE ME
+   Zuberi T., 2001, Thicker than blood: How racial statistics lie
+NR 64
+TC 1
+Z9 1
+U1 14
+U2 24
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+EI 2332-8584
+J9 AERA OPEN
+JI AERA Open
+PY 2024
+VL 10
+AR 23328584241228223
+DI 10.1177/23328584241228223
+PG 13
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA HJ2M2
+UT WOS:001159066900001
+OA Green Submitted, gold
+DA 2024-11-22
+ER
+
+PT J
+AU Tabron, LA
+   Thomas, AK
+AF Tabron, Lolita A.
+   Thomas, Amanda K.
+TI Deeper than Wordplay: A Systematic Review of Critical Quantitative
+   Approaches in Education Research (2007-2021)
+SO REVIEW OF EDUCATIONAL RESEARCH
+LA English
+DT Review
+DE critical theory; race; social justice; multicultural education;
+   mathematics education; equity; research methodology; statistics;
+   critical quantitative; CritQuant; QuantCrit; quantitative criticalism;
+   systematic literature review
+ID CRITICAL RACE THEORY; CAMPUS CLIMATE; STUDENTS; DIVERSITY;
+   INTERSECTIONALITY; PARTICIPATION; ORIENTATION; COLLEGES; IMPACT
+AB Although the critical research cannon is often associated with qualitative scholars, there is a growing number of critical scholars who are refusing positivist-informed quantitative analyses. However, as a growing number of education scholars engaged in critical approaches to quantitative inquiry, instances of conflation began to surface. We understood this conflation as the interchangeable use of the terms quantitative criticalism, QuantCrit, and critical quantitative throughout the literature and even within the same chapter or article. The purpose of our systematic literature review is twofold: (a) to understand how critical approaches to quantitative inquiry emerged as a new paradigm within quantitative methods and (b) whether there is any distinction between quantitative criticalism, QuantCrit, and critical quantitative inquiries or simply interchangeable wordplay. We share how critical quantitative approaches are definite shifts within the quantitative research paradigm, highlight relevant assumptions, and share strategies and future directions for applied practice in this emergent field.
+C1 [Tabron, Lolita A.] Univ Denver, Dept Educ Leadership, Policy Studies, 1999 East Evans Ave, Katherine A Ruffatto Hall 36, Denver, CO 80208 USA.
+   [Thomas, Amanda K.] Innovat Univ Southern Caribbean, Dept Res, PO Box 175, Trinidad, Trinidad Tobago.
+C3 University of Denver
+RP Tabron, LA (corresponding author), Univ Denver, Dept Educ Leadership, Policy Studies, 1999 East Evans Ave, Katherine A Ruffatto Hall 36, Denver, CO 80208 USA.
+EM lolita.tabron@du.edu; thomasa@usc.edu.tt
+RI Thomas Ph.D., Amanda K./HZH-2851-2023
+OI Tabron, Lolita A./0000-0001-9655-3395
+CR Alcanter C.M., 2014, New Directions for Institutional Research, V158, P23
+   Alexander PA, 2020, REV EDUC RES, V90, P6, DOI 10.3102/0034654319854352
+   Allen D, 2019, RES HIGH EDUC, V60, P18, DOI 10.1007/s11162-018-9502-6
+   [Anonymous], 2020, Nvivo
+   Anthym M, 2019, INT J QUAL STUD EDUC, V32, P1072, DOI 10.1080/09518398.2019.1645907
+   Baez B., 2007, USING QUANTITATIVE D, P17, DOI DOI 10.1002/IR.201
+   Battle-Baptiste Whitney., 2018, W.E.B. Du Bois's Data Portraits: Visualizing Black America New York
+   Best Latrica E, 2014, J Pan Afr Stud, V7, P61
+   Bielby R, 2014, RES HIGH EDUC, V55, P735, DOI 10.1007/s11162-014-9334-y
+   BRYK AS, 1987, PSYCHOL BULL, V101, P147, DOI 10.1037/0033-2909.101.1.147
+   Campbell-Montalvo RA, 2020, RACE ETHNIC EDUC-UK, V23, P180, DOI 10.1080/13613324.2019.1679748
+   Carter D.F., 2007, New Directions for Institutional Research, V133, P25, DOI [10.1002/ir, DOI 10.1002/IR]
+   Castellanos M, 2015, J COLL STUDENT DEV, V56, P794, DOI 10.1353/csd.2015.0089
+   Clayton A., 2020, Nautilus
+   Conway K.M., 2014, New Directions for Institutional Research, V2013, P51, DOI DOI 10.1002/IR.20045
+   COOK T. D., 1979, Quasi-experimentation: design and analysis issues for field settings
+   Covarrubias A., 2013, Handbook of Critical Race Theory in Education, P270, DOI DOI 10.4324/9780203155721-30
+   Covarrubias A, 2018, RACE ETHNIC EDUC-UK, V21, P253, DOI 10.1080/13613324.2017.1377412
+   Covarrubias A, 2011, J LAT EDUC, V10, P86, DOI 10.1080/15348431.2011.556519
+   Crawford CE, 2019, J EDUC POLICY, V34, P423, DOI 10.1080/02680939.2018.1531314
+   CRENSHAW K, 1993, STANFORD LAW REVIEW VOL 43, NO 6, JULY 1991, P1241
+   Crenshaw K., 1989, UNIV CHICAGO LEG FOR, P383
+   Curley K., 2019, THESIS E MICHIGAN U
+   Dubois WilliamE.B., 1899, PHILADELPHIA NEGRO S
+   Faircloth S.C., 2015, New Directions for Institutional Research, V2014, P5, DOI [10.1002/ir.20083, DOI 10.1002/IR.20083]
+   Garcia NM, 2018, RACE ETHNIC EDUC-UK, V21, P231, DOI 10.1080/13613324.2017.1377415
+   Garcia NM, 2018, RACE ETHNIC EDUC-UK, V21, P149, DOI 10.1080/13613324.2017.1377675
+   Garvey JC, 2019, REV HIGH EDUC, V43, P1, DOI 10.1353/rhe.2019.0088
+   Garvey JC, 2019, J COLL STUDENT DEV, V60, P495, DOI 10.1353/csd.2019.0042
+   Garvey JC, 2017, J COLL STUDENT DEV, V58, P795, DOI 10.1353/csd.2017.0065
+   Gillborn D, 2018, RACE ETHNIC EDUC-UK, V21, P158, DOI 10.1080/13613324.2017.1377417
+   Gonzalez CancheM. S., 2015, New Directions for Institutional Research, V2014, P75, DOI [DOI 10.1002/IR.20087, 10.1002/ir.20087]
+   Gutiérrez R, 2008, J RES MATH EDUC, V39, P357
+   Hernandez E., 2015, New Directions for Institutional Research, V163, P93, DOI [10.1002/ir.20088, DOI 10.1002/IR.20088]
+   Hernandez E., 2013, Journal of Hispanic Higher Education, V12, P153, DOI DOI 10.1177/1538192713475453
+   hooks b., 1994, TEACHING TRANSGRESS
+   Huber LP, 2018, RACE ETHNIC EDUC-UK, V21, P208, DOI 10.1080/13613324.2017.1377416
+   Inckle K, 2015, FEMINIST REV, P42, DOI 10.1057/fr.2015.38
+   Jang ST, 2018, AM EDUC RES J, V55, P1268, DOI 10.3102/0002831218777225
+   John E.P. St., 2007, USING QUANTITATIVE D, P67, DOI DOI 10.1002/IR.205
+   John G., 2014, New Directions for Institutional Research, P65, DOI [DOI 10.1002/IR.20046, 10.1002/ir.20046]
+   Judd C.M., 2017, Data Analysis: A Model Comparison Approach to Regression, ANOVA, and beyond, Vthird, DOI [10.4324/9781315744131, DOI 10.4324/9781315744131]
+   Kendi I. X., 2019, BE ANTIRACIST
+   Kilgo CA, 2019, J COLL STUDENT DEV, V60, P421, DOI 10.1353/csd.2019.0038
+   Kincheloe J., 1994, HDB QUALITATIVE RES
+   Kinloch V., 2014, HUMANIZING RES DECOL, P21
+   Kinzie J., 2007, Using quantitative data to answer critical questions, P81, DOI DOI 10.1002/IR.206
+   Knowles R.T., 2019, The Urban Review, DOI [DOI 10.1007/S11256-019-00526-1, 10.1007/s11256-019-00526-1]
+   Kuhn T. S., 1977, The essential tension: Selected studies in scientific tradition and change, DOI 10.7208/chicago/9780226217239.001.0001
+   Kuhn Thomas S., 1962, The Structure of Scientific Revolutions
+   Kukutai T, 2016, RES MG CENT ABORIG E, V38, P1
+   Lincoln Y.S., 2018, SAGE HDB QUALITATIVE, P108
+   López N, 2018, RACE ETHNIC EDUC-UK, V21, P180, DOI 10.1080/13613324.2017.1375185
+   Louça F, 2009, J HIST BIOL, V42, P649, DOI 10.1007/s10739-008-9167-7
+   Malcom-Piqueux L., 2015, NEW DIRECTIONS I RES, V163, P59, DOI DOI 10.1002/IR.20086
+   Mayhew MJ, 2015, RES HIGH EDUC, V56, P595, DOI 10.1007/s11162-015-9364-0
+   Mayhew MJ, 2015, J COLL STUDENT DEV, V56, P170, DOI 10.1353/csd.2015.0019
+   Metcalf H., 2011, [Doctoral dissertation
+   Metcalf H.E., 2014, NEW DIRECTIONS I RES, V2013, P77, DOI DOI 10.1002/IR.20047
+   Mills CharlesW., 2003, CLASS RACE ESSAYS WH
+   Nicolazzo Z, 2021, URBAN EDUC, V56, P511, DOI 10.1177/0042085917697203
+   Omi Michael, 2015, Racial Formation in the United States, V3rd
+   Oseguera L., 2014, New Directions for Institutional Research, V2014, P37, DOI DOI 10.1002/IR.20044
+   Page MJ, 2021, INT J SURG, V88, DOI [10.1186/s13643-021-01626-4, 10.1016/j.ijsu.2021.105906, 10.1016/j.jclinepi.2021.02.003]
+   PALMER BD, 1993, INT REV SOC HIST, V38, P133, DOI 10.1017/S0020859000111927
+   Park JJ, 2017, J COLL STUDENT DEV, V58, P733, DOI 10.1353/csd.2017.0057
+   Perna L.W., 2007, Using quantitative data to answer critical questions, P51, DOI [https://doi.org/10.1002/ir.204, DOI 10.1002/IR.204]
+   Rios-Aguilar C., 2015, NEW DIRECTIONS INSTI, P43
+   Rios-Aguilar C., 2014, New directions for institutional research - New scholarship in critical quantitative research, part 1: Studying institutions and people in context, P95, DOI DOI 10.1002/IR.20048
+   Ro H K., 2020, New Directions for Student Services, V169, P87, DOI [DOI 10.1002/SS.20347, 10.1002/ss.20347]
+   Rockenbach AB, 2013, RES HIGH EDUC, V54, P461, DOI 10.1007/s11162-013-9282-y
+   Rockenbach AN, 2016, RES HIGH EDUC, V57, P497, DOI 10.1007/s11162-015-9395-6
+   Sablan JR, 2019, AM EDUC RES J, V56, P178, DOI 10.3102/0002831218798325
+   Saunders R., 2015, THESIS HOWARD U
+   Smith L. T., 1999, Decolonizing methodologies: Research and Indigenous peoples
+   Solorzano D.G., 2001, INT J QUAL STUD EDUC, V14, P471, DOI DOI 10.1080/09518390110063365
+   Solorzano D.G., 2005, J HISPANIC HIGHER ED, V4, P272, DOI [10.1177/1538192705276550, DOI 10.1177/1538192705276550]
+   Solorzano DG., 2015, Whittier L. Rev, V37, P423
+   Stage F., New Directions for Institutional Research, V2007, P5, DOI [DOI 10.1002/IR.200, 10.1002/ir.200]
+   Stage F.K., 2007, NEW DIRECTIONS I RES, V2007, P95, DOI [10.1002/ir.207, DOI 10.1002/IR.207]
+   Stage F.K., 2014, New Directions for Institutional Research, V158, P1, DOI DOI 10.1002/IR.20041
+   Stage F.K., 2014, New Directions for Institutional Research, V158, P9
+   Stewart D.L., 2013, J NEGRO EDUC, V82, P184, DOI DOI 10.7709/JNEGROEDUCATION.82.2.0184
+   Sullivan E., 2010, Race, Gender Class, V17, P72, DOI DOI 10.2307/41674726
+   Tabron L.A., 2021, Handbook of Social Justice Interventions in Education
+   Tabron L.A., 2019, Research Methods for Social Justice and Equity in Education, P275, DOI [10.1007/978-3-030-05900-2, DOI 10.1007/978-3-030-05900-2]
+   Tabron L. A., HDB CRITICAL ED RES
+   Tabron LA, 2019, EDUC POLICY, V33, P181, DOI 10.1177/0895904818807308
+   Teranishi R.T., 2007, NEW DIRECTIONS I RES, P37, DOI DOI 10.1002/IR.203
+   Thomas A. K., 2022, Unpublished doctoral dissertation,
+   Toldson IA., 2019, No BS Bad Stats, P3, DOI DOI 10.1163/9789004397040_001
+   Vaccaro A., 2015, New Directions for Student Services, P25, DOI [DOI 10.1002/IR.20084, DOI 10.1002/ss.20143]
+   Van Dusen B, 2020, J RES SCI TEACH, V57, P33, DOI 10.1002/tea.21584
+   Walter M., 2016, INDIGENOUS STAT QUAN
+   Walter M, 2019, INT J SOC RES METHOD, V22, P233, DOI 10.1080/13645579.2018.1531228
+   Wells R.S., 2015, NEW DIRECTIONS I RES, V163, P103, DOI DOI 10.1002/IR.20089
+   Wells R, 2010, TEACH COLL REC, V112, P1679
+   Wilson Shawn., 2008, RES IS CEREMONY INDI
+   Young J., 2018, Middle Grade Review, V4, P1
+   Young J.L., 2018, URBAN REV, V50, P156, DOI DOI 10.1007/S11256-017-0434-9
+   Young J, 2018, J EDUC GIFTED, V41, P43, DOI 10.1177/0162353217745381
+   Zerquera DD., 2015, Journal of Hispanic Higher Education, P1, DOI [10.1177/1538192715612915, DOI 10.1177/1538192715612915]
+   Zuberi T., 2008, WHITE LOGIC WHITE ME
+   Zuberi T., 2001, Thicker than blood: How racial statistics lie
+NR 104
+TC 29
+Z9 34
+U1 27
+U2 62
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0034-6543
+EI 1935-1046
+J9 REV EDUC RES
+JI Rev. Educ. Res.
+PD OCT
+PY 2023
+VL 93
+IS 5
+BP 756
+EP 786
+DI 10.3102/00346543221130017
+EA FEB 2023
+PG 31
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA R0JT4
+UT WOS:000932162600001
+DA 2024-11-22
+ER
+
+PT J
+AU Ramlackhan, K
+   Wang, Y
+AF Ramlackhan, Karen
+   Wang, Yan
+TI Urban School District Performance: A Longitudinal Analysis of
+   Achievement
+SO URBAN EDUCATION
+LA English
+DT Article
+DE urban; student achievement; school districts; growth mixture modeling;
+   QuantCrit; critical race theory; opportunity gap; achievement gap; race;
+   racism; social justice
+ID AFRICAN-AMERICAN STUDENTS; CRITICAL RACE THEORY; BOARD-OF-EDUCATION;
+   SEGREGATION; LANGUAGE; INCOME; DISABILITIES; OPPORTUNITY; IMPACT; GROWTH
+AB We used the Stanford education data archive (SEDA) data to examine the heterogeneity among urban school districts in the United States. The SEDA 2.1 includes data sets on students' mathematics (Math) and English language arts (ELA) achievement from 2008 to 2014 at the district level. Growth mixture modeling was used to uncover the underlying growth trajectories for urban student achievement from the third to the eighth grade. Two and three growth patterns were observed for ELA and Math achievement, respectively, over time. We used the critical theoretical framework QuantCrit to centralize race in the analysis of the data and shared implications for future research.
+C1 [Ramlackhan, Karen] Univ S Florida, St Petersburg, FL USA.
+   [Wang, Yan] Univ Massachusetts Lowell, Lowell, MA USA.
+C3 State University System of Florida; University of South Florida;
+   University of Massachusetts System; University of Massachusetts Lowell
+RP Ramlackhan, K (corresponding author), Univ S Florida, Educ Leadership & Policy Studies, 140 Seventh Ave South,COQ 236A, St Petersburg, FL 33701 USA.
+EM karenr1@usf.edu
+RI Ramlackhan, Karen/JBS-4302-2023
+CR AKAIKE H, 1987, PSYCHOMETRIKA, V52, P317, DOI 10.1007/BF02294359
+   Bal A, 2014, REM SPEC EDUC, V35, P3, DOI 10.1177/0741932513507754
+   Billingham CM, 2019, URBAN EDUC, V54, P151, DOI 10.1177/0042085915618713
+   Bohrnstedt G., 2015, SCH COMPOSITION BLAC
+   Bonilla-Silva E, 2015, AM BEHAV SCI, V59, P1358, DOI 10.1177/0002764215586826
+   Butler A, 2020, REV RES EDUC, V44, P64, DOI 10.3102/0091732X20903303
+   Carlson D, 2015, SOCIOL EDUC, V88, P38, DOI 10.1177/0038040714561801
+   Carpentier V, 2008, HIST EDUC, V37, P701, DOI 10.1080/00467600802056963
+   Carter K.G., 2013, CLOSING OPPORTUNITY
+   Chetty R., 2018, RACE EC OPPORTUNITY, DOI DOI 10.3386/W24441
+   Covarrubias A., 2013, HDB CRITICAL RACE TH
+   Csaki, 1973, P 2 INT S INF THEOR, P267, DOI [10.1007/978-1-4612-1694-0, 10.1007/978-1-4612-1694-0_15, 10.1007/978-1-4612-0919-5_38]
+   Dixon-Roman Ezekiel., 2012, Thinking Comprehensively About Education Spaces of Educative Possibility and Their Implications for Public Policy
+   Dixon-Román EJ, 2013, URBAN EDUC, V48, P828, DOI 10.1177/0042085912463707
+   Dorsey DNT, 2013, EDUC URBAN SOC, V45, P533, DOI 10.1177/0013124513486287
+   Drame ER, 2010, EDUC URBAN SOC, V42, P379, DOI 10.1177/0013124510362031
+   Eddy CM, 2011, URBAN EDUC, V46, P1280, DOI 10.1177/0042085911413149
+   Fahle E.M., 2018, Stanford Education Data Archive: Technical Documentation (Version 2.1)
+   Fuller B, 2019, EDUC RESEARCHER, V48, P407, DOI 10.3102/0013189X19860814
+   Gadsden VL, 2017, URBAN EDUC, V52, P431, DOI 10.1177/0042085916652189
+   Gagnon D.J., 2012, BEGINNING TEACHERS A, P1, DOI [10.34051/p/2020.173, DOI 10.34051/P/2020.173]
+   Gándara PC, 2014, EDUC ADMIN QUART, V50, P735, DOI 10.1177/0013161X14549957
+   Garcia NM, 2018, RACE ETHNIC EDUC-UK, V21, P149, DOI 10.1080/13613324.2017.1377675
+   Gillborn D, 2018, RACE ETHNIC EDUC-UK, V21, P158, DOI 10.1080/13613324.2017.1377417
+   Gillborn D, 2010, J EDUC POLICY, V25, P253, DOI 10.1080/02680930903460740
+   Gooden MA, 2014, EDUC ADMIN QUART, V50, P764, DOI 10.1177/0013161X14550197
+   Green T.L., 2015, The Urban Review, V47, P717, DOI DOI 10.1007/S11256-015-0331-Z
+   Guryan J, 2004, AM ECON REV, V94, P919, DOI 10.1257/0002828042002679
+   Hanushek E., 2014, Education, land, P25
+   Hanushek E. A., 2020, Long-run trends in the US SES-achievement gap (No. w26764)
+   Hanushek EA., 2011, OXFORD HDB URBAN EC, P583, DOI DOI 10.1093/OXFORDHB/9780195380620.013.0027
+   Hanushek EA, 2009, J LABOR ECON, V27, P349, DOI 10.1086/600386
+   Heilig JV, 2013, EDUC URBAN SOC, V45, P609, DOI 10.1177/0013124513486289
+   Howard TC, 2016, URBAN EDUC, V51, P253, DOI 10.1177/0042085915622541
+   Johnson O., 2014, The Journal of Negro Education, V83, P199, DOI DOI 10.7709/JNEGROEDUCATION.83.3.0199
+   Jung T, 2008, SOC PERSONAL PSYCHOL, V2, P302, DOI 10.1111/j.1751-9004.2007.00054.x
+   Kucsera John., 2014, New York State's Extreme School Segregation
+   Kuhfeld M, 2019, AERA OPEN, V5, DOI 10.1177/2332858419858324
+   Kwok A, 2017, EDUC RESEARCHER, V46, P355, DOI 10.3102/0013189X17726727
+   Ladson-Billings G., 2010, International Journal of Qualitative Studies in Education, V11, P7, DOI [DOI 10.1080/095183998236863, 10.1080/095183998236863]
+   Ladson-Billings G., 2004, Educational Researcher, V33, P3, DOI [10.3102/0013189X033007003, DOI 10.3102/0013189X033007003]
+   LADSONBILLINGS G, 1995, TEACH COLL REC, V97, P47
+   Leana CR, 2006, ORGAN SCI, V17, P353, DOI 10.1287/orsc.1060.0191
+   Lewis CW, 2008, URBAN EDUC, V43, P127, DOI 10.1177/0042085907312315
+   Lo YT, 2001, BIOMETRIKA, V88, P767, DOI 10.1093/biomet/88.3.767
+   Lomotey K., 1996, 40 YEARS BROWN DECIS, V13, P226
+   Mccutcheon A. L., 1987, LATENT CLASS ANAL, DOI DOI 10.4135/9781412984713
+   McLachlan G. J., 2000, WILEY SER PROB STAT, DOI 10.1002/0471721182
+   Miller RT, 2008, EDUC EVAL POLICY AN, V30, P181, DOI 10.3102/0162373708318019
+   Milner HR, 2020, EDUC RESEARCHER, V49, P147, DOI 10.3102/0013189X20907396
+   Milner HR, 2012, J BLACK STUD, V43, P693, DOI 10.1177/0021934712442539
+   Milner HR., 2014, HDB URBAN ED
+   Min J, 2022, EDUC URBAN SOC, V54, P288, DOI 10.1177/00131245211004563
+   Moore J.M., 2014, Journal of Negro Education, V83, P191, DOI [10.7709/jnegroeducation.83.3.0191, DOI 10.7709/JNEGROEDUCATION.83.3.0191]
+   Morrison DebSubini A. Annamma Darrell D. Jackson., 2017, Critical Race Spatial Analysis: Mapping to Understand and Address Educational Inequity
+   Munoz M.A., 2007, Journal of Personnel Evaluation in Education, V20, P147, DOI [10.1007/s11092-008-9054-y, DOI 10.1007/S11092-008-9054-Y]
+   Muthen L. K., 1998, Mplus user's guide, V8th
+   National Center for Education Statistics, 2019, NAT ASS ED PROGR VAR
+   Orfield G., 2016, BROWN AT 62: SCHOOL SEGREGATION BY RACE
+   Orfield G, 2014, EDUC ADMIN QUART, V50, P718, DOI 10.1177/0013161X14548942
+   Oswald DP, 2001, MENT RETARD, V39, P351, DOI 10.1352/0047-6765(2001)039<0351:IOSCOT>2.0.CO;2
+   Owens A, 2016, AM EDUC RES J, V53, P1159, DOI 10.3102/0002831216652722
+   Pearman FA, 2020, URBAN EDUC, V55, P183, DOI 10.1177/0042085919884342
+   Reardon S., 2018, CEPA Working Paper No. 16-10
+   Reardon SF, 2014, ANNU REV SOCIOL, V40, P199, DOI 10.1146/annurev-soc-071913-043152
+   Reardon SF, 2011, AM J SOCIOL, V116, P1092, DOI 10.1086/657114
+   Rodriguez D, 2009, URBAN EDUC, V44, P452, DOI 10.1177/0042085909337598
+   Schwab-Stone M, 1999, J AM ACAD CHILD PSY, V38, P359, DOI 10.1097/00004583-199904000-00007
+   Schwartz H., 2012, FUTURE SCH INTEGRATI, P27
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   SCLOVE SL, 1987, PSYCHOMETRIKA, V52, P333, DOI 10.1007/BF02294360
+   Scott J, 2014, EDUC ADMIN QUART, V50, P749, DOI 10.1177/0013161X14551983
+   Shores K, 2020, AM EDUC RES J, V57, P2089, DOI 10.3102/0002831219900128
+   Soja EW, 2010, GLOB COMMUNITY SER, P1
+   Sugrue ThomasJ., 1996, ORIGINS URBAN CRISIS
+   Tabron LA, 2019, EDUC POLICY, V33, P181, DOI 10.1177/0895904818807308
+   Wang J, 1999, J EDUC RES, V93, P101, DOI 10.1080/00220679909597634
+   Wodtke GT, 2016, AM J SOCIOL, V121, P1168, DOI 10.1086/684137
+NR 78
+TC 3
+Z9 8
+U1 1
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0042-0859
+EI 1552-8340
+J9 URBAN EDUC
+JI Urban Educ.
+PD MAR
+PY 2024
+VL 59
+IS 3
+BP 849
+EP 877
+AR 00420859211044947
+DI 10.1177/00420859211044947
+EA OCT 2021
+PG 29
+WC Education & Educational Research; Urban Studies
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Urban Studies
+GA HI6U0
+UT WOS:000713642700001
+DA 2024-11-22
+ER
+
+PT J
+AU Mcgee, EO
+   Monroe-White, T
+   Laosebikan, O
+   Vilfranc, CL
+AF Mcgee, Ebony O.
+   Monroe-White, Thema
+   Laosebikan, Olanipekun
+   Vilfranc, Chrystelle L.
+TI Interrogating the Relationship between Racial Activism and Academic
+   Career Interest among STEM Doctoral Students
+SO AMERICAN JOURNAL OF EDUCATION
+LA English
+DT Article
+ID EQUITY; WOMEN; DYNAMICS; SCIENCE; HEALTH; COLOR; RACE; PHD
+AB Purpose: Science, technology, engineering, and mathematics (STEM) fields are not known for producing a high number of racial activists. On the contrary, scientific discourse often traffics in race-neutral language and ideologies, all the while producing racist science and technologies. This research explored the relationship between racial activism and academic career intentions of underrepresented and racially minoritized (URM) STEM doctoral students. Research Methods/Approach: We surveyed 301 Black/African American, Hispanic/Latinx, and Indigenous STEM doctoral students and 96 White and Asian STEM doctoral students. We deploy QuantCrit as a methodological stance to guide our analysis of the racial activism of students and its effect on their interest and intent in pursuing a STEM career. Findings: We found that among URM STEM doctoral students, racial activism positively predicts the likelihood of pursuing careers in academia. After controlling for the other variables in our regression models, racial activism was the strongest predictor based on standardized beta coefficients. Implications: Recent events have reactivated racial activism in academia, highlighting the experiences of URM STEM students and faculty. Yet Latinx faculty have increased minimally, Indigenous faculty numbers are stagnant, and Black faculty numbers in science and engineering are decreasing. Our research suggests that URM STEM doctoral students seek out careers in academia to leverage their commitment to racial activism by producing racially and culturally affirming science and technology for the benefit of society.
+C1 [Mcgee, Ebony O.] Johns Hopkins Univ, Baltimore, MD 21218 USA.
+   [Monroe-White, Thema] Berry Coll, Mt Berry, GA USA.
+   [Laosebikan, Olanipekun] Chicago State Univ, Chicago, IL USA.
+   [Vilfranc, Chrystelle L.] Herbert Irving Comprehens Canc Ctr, New York, NY USA.
+C3 Johns Hopkins University; Chicago State University
+RP Mcgee, EO (corresponding author), Johns Hopkins Univ, Baltimore, MD 21218 USA.
+CR Adserias RP, 2017, RACE ETHNIC EDUC-UK, V20, P315, DOI 10.1080/13613324.2016.1260233
+   Alfred MV, 2019, ADV DEV HUM RESOUR, V21, P114, DOI 10.1177/1523422318814551
+   [Anonymous], 2022, WOMEN COLOR ADV PEAC, DOI [10.2139/ssrn.4075353, DOI 10.2139/SSRN.4075353]
+   Blake D, 2018, EDUC SCI, V8, DOI 10.3390/educsci8010030
+   Bradley Stefan M., 2016, NEW YORK TIMES  0201
+   Bullock EC, 2019, THEOR PRACT, V58, P338, DOI 10.1080/00405841.2019.1626614
+   Burgess T, 2022, CULT STUD SCI EDUCAT, V17, P983, DOI 10.1007/s11422-022-10117-4
+   Burt BA, 2019, AM EDUC RES J, V56, P39, DOI 10.3102/0002831218789595
+   Castillo W., 2022, EdWorkingPaper No. 22-546, DOI [DOI 10.26300/V5KH-DD65, 10.26300/V5KH-DD65]
+   Cedillo S, 2018, CAN J SCI MATH TECHN, V18, P242, DOI 10.1007/s42330-018-0025-0
+   Chu W, 2022, J DIVERS HIGH EDUC, V15, P7, DOI 10.1037/dhe0000380
+   CLANCE PR, 1978, PSYCHOTHER-THEOR RES, V15, P241, DOI 10.1037/h0086006
+   Clance PR., 1985, APA PSYCTESTS, DOI [10.1037/t11274-000, DOI 10.1037/T11274-000]
+   Cole RM, 2020, POLICY FUTURES EDUC, V18, P90, DOI 10.1177/1478210318767459
+   Colen CG, 2021, AM J EPIDEMIOL, V190, P553, DOI 10.1093/aje/kwaa245
+   Cooper JN, 2019, INT REV SOCIOL SPORT, V54, P151, DOI 10.1177/1012690217718170
+   Davis CHF III, 2019, REV HIGH EDUC, V42, P85, DOI 10.1353/rhe.2019.0046
+   Fassett K.T., 2018, Frontiers in Education, V3, P1, DOI [DOI 10.3389/FEDUC.2018.00103, 10.3389/feduc.2018, DOI 10.3389/FEDUC.2018]
+   Feldon David F., 2022, HIGHER ED HDB THEORY, V38
+   Fredrickson GeorgeM., 2015, Racism: A Short History, DOI DOI 10.1515/9781400873678
+   Gibbs KD, 2013, CBE-LIFE SCI EDUC, V12, P711, DOI 10.1187/cbe.13-02-0021
+   Gillborn D, 2018, RACE ETHNIC EDUC-UK, V21, P158, DOI 10.1080/13613324.2017.1377417
+   Gooden ST, 2017, PUBLIC ADMIN REV, V77, P822, DOI 10.1111/puar.12851
+   Greco LM, 2018, J MANAGE STUD, V55, P583, DOI 10.1111/joms.12328
+   Griffin K A., 2020, Higher Education: Handbook of Theory and Research, V35
+   Gumus Selahaddin, 2021, BROWN DAILY HER 0929
+   Hale JonN., 2016, FREEDOM SCH STUDENT
+   Hays RD, 2009, QUAL LIFE RES, V18, P873, DOI 10.1007/s11136-009-9496-9
+   Holly J, 2020, J ENG EDUC, V109, P629, DOI 10.1002/jee.20364
+   Jaeger AJ, 2017, J DIVERS HIGH EDUC, V10, P232, DOI 10.1037/dhe0000018
+   Kier MW, 2018, INT J EDUC MATH SCI, V6, P105, DOI 10.18404/ijemst.408932
+   King GP, 2023, CBE-LIFE SCI EDUC, V22, DOI 10.1187/cbe.22-06-0104
+   Kler S, 2023, MEAS EVAL COUNS DEV, V56, P283, DOI 10.1080/07481756.2022.2109174
+   Ko LT, 2013, AIP CONF PROC, V1513, P222, DOI 10.1063/1.4789692
+   Kornbluh M, 2021, AM J COMMUN PSYCHOL, V68, P187, DOI 10.1002/ajcp.12512
+   Kozlowski D, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2113067119
+   Krueger JI, 2022, AM PSYCHOL, V77, P18, DOI 10.1037/amp0000942
+   LeBlanc T, 2022, FRONT PSYCHOL, V13, DOI 10.3389/fpsyg.2022.944207
+   Mangematin V, 2000, RES POLICY, V29, P741, DOI 10.1016/S0048-7333(99)00047-5
+   Marrow H., 2003, Ethnicities, V3, P427, DOI DOI 10.1177/1468796803003004001
+   Martin DB, 2019, RACE ETHNIC EDUC-UK, V22, P459, DOI 10.1080/13613324.2019.1592833
+   McGee E, 2021, AERA OPEN, V7, DOI 10.1177/23328584211039217
+   McGee E, 2023, INT J QUAL STUD EDUC, V36, P716, DOI 10.1080/09518398.2021.1930246
+   McGee E, 2017, AM J EDUC, V124, P1, DOI 10.1086/693954
+   McGee EO, 2022, J HIGH EDUC-UK, V93, P702, DOI 10.1080/00221546.2022.2031704
+   McGee EO, 2019, TEACH COLL REC, V121
+   McGee EO, 2020, EDUC RESEARCHER, V49, P633, DOI 10.3102/0013189X20972718
+   McGee Ebony Omotola, 2022, J NEGRO EDUC, V90, P288
+   McGee Ebony Omotola, 2023, TEACH COLL REC, V125, P108
+   McGee EO., 2019, International Journal of Doctoral Students, V14, P277, DOI DOI 10.28945/4250
+   McGee EO., 2021, Black, Brown, Bruised: How Racialized STEM Education Stifles Innovation
+   Miller Bridget, 2021, IMPACTING ED J TRANS, V6, P3, DOI DOI 10.5195/IE.2021.172
+   Monroe-White T., 2022, The Journal of the Southern Association for Information Systems, V9, P60, DOI [10.17705/3JSIS.00027, DOI 10.17705/3JSIS.00027]
+   Monroe-White T, 2023, VOLUNTAS, V34, P170, DOI 10.1007/s11266-022-00479-2
+   Morgan DL., 2019, Student activism, politics, and campus climate in higher education
+   Morris AldonD., 1984, The origins of the civil rights movement : Black communities organizing for change
+   Naphan-Kingery DE, 2019, J ENG EDUC, V108, P337, DOI 10.1002/jee.20284
+   National Science Foundation (NSF), 2019, Doctorate recipients, by sex and major field of study: 2008-17
+   Ndemanu M.T., 2017, The Journal of Negro Education, V86, P238
+   Nobles M, 2022, NATURE, V606, P225, DOI 10.1038/d41586-022-01527-z
+   NSF (National Science Foundation), 2021, SURVEY DOCTORATE REC
+   Ortiz NA., 2019, J NEGRO EDUC, V88, P311, DOI [DOI 10.7709/JNEGROEDUCATION.88.3.0311, 10.7709/jnegroeducation.88.3.0311]
+   Patel L., 2015, DECOLONIZING ED RES
+   Pedhazur E. J., 1997, MULTIPLE REGRESSION
+   Perez RJ, 2020, J DIVERS HIGH EDUC, V13, P133, DOI 10.1037/dhe0000115
+   Philip TM, 2016, COGNITION INSTRUCT, V34, P361, DOI 10.1080/07370008.2016.1210418
+   Phinney J.S., 1992, Journal of Adolescent Research, V7, P156
+   Priddie C, 2022, GIFTED CHILD QUART, DOI 10.1177/00169862221116636
+   Reynolds R.R., 2017, J NEGRO EDUC, V86, P283, DOI DOI 10.7709/JNEGROEDUCATION.86.3.0283
+   Rogers IH, 2011, SIXTIES, V4, P171, DOI 10.1080/17541328.2011.625195
+   Rogers IH, 2012, CONTEMP BLACK HIST, P1, DOI 10.1057/9781137016508
+   Rosa K, 2021, CULT STUD SCI EDUCAT, V16, P501, DOI 10.1007/s11422-020-10008-6
+   Rosa K, 2016, PHYS REV PHYS EDUC R, V12, DOI 10.1103/PhysRevPhysEducRes.12.020113
+   Roy Joseph, 2019, PROFILES ENG ENGINEE
+   Russell ML., 2018, Negro Educational Review, V69, P5
+   Ryan H, 2022, REGEN ENG TRANSL MED, V8, P499, DOI 10.1007/s40883-021-00237-8
+   Sauermann H, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0036307
+   Shorette C.R., 2015, Western Journal of Black Studies, V39, P18, DOI [10.4337/9781800883284.historically.black, DOI 10.4337/9781800883284.HISTORICALLY.BLACK]
+   SMEDLEY BD, 1993, J HIGH EDUC, V64, P434, DOI 10.2307/2960051
+   Szymanski DM, 2012, J BLACK PSYCHOL, V38, P342, DOI 10.1177/0095798411424744
+   Taber KS, 2018, RES SCI EDUC, V48, P1273, DOI 10.1007/s11165-016-9602-2
+   Tanksley Tiera Chante, 2019, THESIS U CALIFORNIA
+   Thompson RC, 2016, CBE-LIFE SCI EDUC, V15, DOI 10.1187/cbe.15-12-0263
+   Toldson I.A., 2013, J NEGRO EDUC, V82, P359, DOI DOI 10.7709/JNEGROEDUCATION.82.4.0359
+   Tuck E, 2012, DECOLONIZATION, V1, P1
+   Vakil S, 2019, RACE ETHNIC EDUC-UK, V22, P449, DOI 10.1080/13613324.2019.1592831
+   Young J., 2021, Investigations in Mathematics Learning, V13, P29, DOI DOI 10.1080/19477503.2020.1827664
+   ZIMET GD, 1988, J PERS ASSESS, V52, P30, DOI 10.1207/s15327752jpa5201_2
+   Zweben S., 2019, 2018 TAULBEE SURVEY
+NR 89
+TC 0
+Z9 0
+U1 1
+U2 3
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0195-6744
+EI 1549-6511
+J9 AM J EDUC
+JI Am. J. Educ.
+PD FEB 1
+PY 2024
+VL 130
+IS 2
+BP 177
+EP 206
+DI 10.1086/728267
+EA FEB 2024
+PG 30
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA NV5P2
+UT WOS:001177931200001
+DA 2024-11-22
+ER
+
+EF
