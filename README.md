@@ -1,6 +1,5 @@
 # quant-crit-math
 
-Research to align QuantCrit with the goals of undergraduate mathematics general education
-
+Research to examine QuantCrit, CritQuant, and Critical Quantitative Literacy in undergraduate mathematics general education.
 
 
